@@ -11,7 +11,7 @@ Me chamo **Victor Nikolaus**, atuo como desenvolvedor backend, trabalhando princ
 
 ## Eu codifico com
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,postgres,mongodb,prisma,docker,git,vite" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mongodb,prisma,docker,git,vite" />
 
 <br>
 
