@@ -18,4 +18,4 @@ Me chamo **Victor Nikolaus**, atuo como desenvolvedor backend, trabalhando princ
 ## Onde me encontrar
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vnikolaus/Portfolio_publico)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/vnikolaus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vnikolaus)
