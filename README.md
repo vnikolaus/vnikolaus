@@ -1,13 +1,13 @@
-# Olá 👋 Seja bem-vindo ao meu perfil!
+# Seja bem-vindo ao meu perfil!👋
 
-Sou **Nikolaus**, **Desenvolvedor Backend** com foco em **Node.js** e **TypeScript**, de **São Paulo, Brasil**.
+Me chamo **Victor Nikolaus**, atuo como desenvolvedor backend, trabalhando principalmente com **Node.js** e **TypeScript** para criar APIs, integrações e soluções voltadas para backend.
 
 ## Sobre mim
 
 ✨ Criando bugs desde **2021**  
 📚 Atualmente estudando **AI, LLMs e arquitetura backend**  
 🎯 Objetivo: evoluir como desenvolvedor backend e criar projetos úteis com IA  
-🎲 Curiosidade: gosto de simulação de voo e de explorar tecnologias relacionadas à aviação  
+🎲 Curiosidade: fora da programação, também curto estudar sobre mercado financeiro e aviação
 
 ## Eu codifico com
 
